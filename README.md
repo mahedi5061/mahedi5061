@@ -4,7 +4,7 @@
 #### I'm a Web Application Developer
 
 
-I'm a Professional MERN Stack Developer. I have skills in Javascript, React Js, Node Js, Express Js, MongoDB, Next Js, HTML 5, CSS 3, Bootstrap, Tailwind CSS and SASS. I am very enthusiastic about learning new things in a new Environment. I love to organize my work on time. I always use modern technology to Develop a Web Applications. I am always interested to learn more from professional experience and upgrading my skills. And I really believe that between hard work and diligence I will achieve my goal.
+I'm a MERN Stack Developer. I have skills in Javascript, React Js, Node Js, Express Js, MongoDB, Next Js, HTML 5, CSS 3, Bootstrap, Tailwind CSS and SASS. I am very enthusiastic about learning new things in a new Environment. I love to organize my work on time. I always use modern technology to Develop a Web Applications. I am always interested to learn more from professional experience and upgrading my skills. And I really believe that between hard work and diligence I will achieve my goal.
 
 Skills:  / REACT / NODE / JS / HTML / CSS
 
